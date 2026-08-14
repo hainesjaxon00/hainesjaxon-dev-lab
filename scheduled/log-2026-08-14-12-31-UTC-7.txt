@@ -1,0 +1,4 @@
+Scheduled contribution
+Timestamp: 2026-08-14 12:31 UTC
+Item 7 of 7
+Trigger: 11 10 14 8 *
